@@ -86,7 +86,7 @@ response
  
  //////////////////////////////////////////////////
 
-(6) /GET                  /filmes/buscaa?nome=XX
+(6) /GET                  /filmes/busca?nome=XX
 response 
 [
     {
